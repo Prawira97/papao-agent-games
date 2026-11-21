@@ -1,0 +1,8 @@
+# secrets and local state
+.env
+*.log
+node_modules/
+
+# circuit artifacts (download from /circuits, do not commit)
+*.wasm
+*.zkey
